@@ -1,4 +1,4 @@
-namespace math {
+namespace cal {
 
 int add(int a, int b) {
     return a + b;
